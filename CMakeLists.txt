@@ -1,0 +1,14 @@
+cmake_minimum_required(VERSION 3.31)
+project(PP)
+
+set(CMAKE_CXX_STANDARD 26)
+
+add_subdirectory(Lab-1)
+add_subdirectory(Lab-2)
+add_subdirectory(Lab-3)
+add_subdirectory(Lab-4)
+add_subdirectory(Lab-5)
+add_subdirectory(Lab-6)
+add_subdirectory(Lab-7)
+add_subdirectory(Lab-9)
+add_subdirectory(Lab-10)

@@ -1,0 +1,10 @@
+Władca Pierścieni,fantasy,1954,J.R.R. Tolkien,1892
+Gra o Tron,fantasy,1996,George R.R. Martin,1948
+Zbrodnia i kara,klasyka,1866,Fiodor Dostojewski,1821
+Harry Potter,fantasy,1997,J.K. Rowling,1965
+Mistrz i Malgorzata,klasyka,1967,Michail Bulhakow,1891
+Hobbit,fantasy,1937,J.R.R. Tolkien,1892
+Sherlock Holmes,detektywistyczne,1892,Arthur Conan Doyle,1859
+Folwark zwierzęcy,klasyka,1945,George Orwell,1903
+Wiedźmin,fantasy,1993,Andrzej Sapkowski,1948
+Rok 1984,science fiction,1949,George Orwell,1903
