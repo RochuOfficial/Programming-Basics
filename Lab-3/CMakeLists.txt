@@ -6,7 +6,13 @@ add_executable(task-3-3 task-3.cpp)
 add_executable(task-3-4 task-4.cpp)
 add_executable(task-3-5 task-5.cpp)
 
-set(EXECUTABLE_OUTPUT_PATH "${PROJECT_BINARY_DIR}")
+if(CMAKE_BUILD_TYPE MATCHES "Debug")
+    set(EXECUTABLE_OUTPUT_PATH "${PROJECT_BINARY_DIR}/debug_bin")
+elseif(CMAKE_BUILD_TYPE MATCHES "Release")
+    set(EXECUTABLE_OUTPUT_PATH "${PROJECT_BINARY_DIR}/release_bin")
+else() # Handle other build types (e.g., RelWithDebInfo, MinSizeRel)
+    set(EXECUTABLE_OUTPUT_PATH "${PROJECT_BINARY_DIR}/bin") # Default location
+endif()
 
 set_target_properties(task-3-1 PROPERTIES RUNTIME_OUTPUT_DIRECTORY ${EXECUTABLE_OUTPUT_PATH})
 set_target_properties(task-3-2 PROPERTIES RUNTIME_OUTPUT_DIRECTORY ${EXECUTABLE_OUTPUT_PATH})
