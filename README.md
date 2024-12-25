@@ -138,7 +138,14 @@ This section outlines the labs and key concepts covered in the course:
 ### Lab 10: Dynamic Data Management with Structures, File I/O, and Sorting
 
 *   Files:
-    *   Files:
     *   `books.txt`
     *   `CMakeLists.txt`
     *   `task.cpp`
+
+### Lab 11: Bit Operations and Basic Cryptography
+
+*   Files:
+    *   `text.txt`
+    *   `CMakeLists.txt`
+    *   `task-1and2.cpp`
+    *   `task-3.cpp`
