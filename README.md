@@ -115,7 +115,7 @@ This section outlines the labs and key concepts covered in the course:
     *   `task.cpp`
     *   `CMakeLists.txt`
 
-### Lab 8: In class test
+### Lab 8: In class 1st test
 
 *   Passed with a score of 94%.
 
@@ -149,3 +149,7 @@ This section outlines the labs and key concepts covered in the course:
     *   `CMakeLists.txt`
     *   `task-1and2.cpp`
     *   `task-3.cpp`
+
+### Lab 8: In class 2nd test
+
+*   Passed with a score of 100%.
