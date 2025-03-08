@@ -150,6 +150,6 @@ This section outlines the labs and key concepts covered in the course:
     *   `task-1and2.cpp`
     *   `task-3.cpp`
 
-### Lab 8: In class 2nd test
+### Lab 12: In class 2nd test
 
 *   Passed with a score of 100%.
